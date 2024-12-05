@@ -1,0 +1,15 @@
+{
+  "name": "rock-albums",
+  "version": "1.0.0",
+  "description": "App de álbuns de rock",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
